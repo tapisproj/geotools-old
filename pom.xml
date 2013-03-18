@@ -1267,7 +1267,7 @@
       <!-- ======================================================= -->
       <!--     Git revision info.                                  -->
       <!-- ======================================================= -->
-      <plugin>
+      <!-- <plugin>
         <groupId>pl.project13.maven</groupId>
         <artifactId>git-commit-id-plugin</artifactId>
         <version>2.1.2</version>
@@ -1281,8 +1281,6 @@
         <configuration> 
           <prefix>build</prefix>
           <failOnNoGitDirectory>false</failOnNoGitDirectory>
-
-          <!-- needed for filtering with VERSION.txt -->
           <skipPoms>false</skipPoms>
           <verbose>false</verbose>
           <gitDescribe>
@@ -1290,7 +1288,7 @@
             <skip>true</skip>
           </gitDescribe>
         </configuration> 
-      </plugin>
+      </plugin> -->
 
     </plugins>
   </build>
