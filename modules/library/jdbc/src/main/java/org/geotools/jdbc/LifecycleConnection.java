@@ -34,6 +34,7 @@ import java.sql.Struct;
 import java.util.List;
 import java.util.Map;
 import java.util.Properties;
+import java.util.concurrent.Executor;
 
 /**
  * Calls the {@link ConnectionLifecycleListener#onBorrow(Connection)} method on construction and
@@ -278,6 +279,23 @@ class LifecycleConnection implements Connection {
         return delegate.createStruct(typeName, attributes);
     }
 
- 
+    public void setNetworkTimeout(Executor executor, int milliseconds)throws SQLException {
+		delegate.setNetworkTimeout(executor, milliseconds);
+	}
 
+	public int getNetworkTimeout() throws SQLException {
+		return delegate.getNetworkTimeout();
+	}
+
+	public void setSchema(String schema) throws SQLException {
+		delegate.setSchema(schema);
+	}
+
+	public String getSchema() throws SQLException {
+		return delegate.getSchema();
+	}
+
+	public void abort(Executor executor) throws SQLException {
+		delegate.abort(executor);
+	}
 }
