@@ -1284,7 +1284,6 @@
           <skipPoms>false</skipPoms>
           <verbose>false</verbose>
           <gitDescribe>
-            <!-- the git describe step is expensive, we don't need it -->
             <skip>true</skip>
           </gitDescribe>
         </configuration> 
