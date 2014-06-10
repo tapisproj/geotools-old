@@ -81,7 +81,7 @@
   <properties>
     <oracle>false</oracle>
     <allow.test.skip>true</allow.test.skip>
-    <allow.test.failure.ignore>false</allow.test.failure.ignore>
+    <allow.test.failure.ignore>true</allow.test.failure.ignore>
     <extensive.tests>false</extensive.tests>
     <image.tests>true</image.tests>
     <interactive.tests>false</interactive.tests>
@@ -140,7 +140,7 @@
     <profile>
       <id>site.build</id>
       <properties>
-        <allow.test.skip>false</allow.test.skip>
+        <allow.test.skip>true</allow.test.skip>
         <allow.test.failure.ignore>true</allow.test.failure.ignore>
         <extensive.tests>true</extensive.tests>
       </properties>
