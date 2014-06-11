@@ -159,10 +159,12 @@ public class ProcessFunctionFactory implements FunctionFactory {
     
     private String getPrimary(Map<String, Parameter<?>> resultInfo) {
         if(resultInfo.size() == 1) {
-            return resultInfo.values().iterator().next().getName();
+            if(resultInfo.values().iterator().next() != null) {
+                return resultInfo.values().iterator().next().getName();
+            }
         } else {
             for (Parameter<?> param : resultInfo.values()) {
-                if(param.isRequired()) {
+                if(param != null && param.isRequired()) {
                     return param.getName();
                 }
             }
