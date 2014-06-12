@@ -139,9 +139,9 @@ public class ProcessFunctionFactory implements FunctionFactory {
             for (ProcessFactory factory : factories) {
                 for (Name processName : factory.getNames()) {
                     Map<String, Parameter<?>> resultInfo = factory.getResultInfo(processName, null);
-                    
+                                        
                     // check there is a single output
-                    if(getPrimary(resultInfo) != null) {
+                    if(resultInfo != null && getPrimary(resultInfo) != null) {
                         Map<String, Parameter<?>> parameterInfo = factory.getParameterInfo(processName);
                         List<String> argumentNames = new ArrayList<String>(parameterInfo.keySet());
 
@@ -159,10 +159,12 @@ public class ProcessFunctionFactory implements FunctionFactory {
     
     private String getPrimary(Map<String, Parameter<?>> resultInfo) {
         if(resultInfo.size() == 1) {
-            return resultInfo.values().iterator().next().getName();
+            if(resultInfo.values().iterator().next() != null) {
+                return resultInfo.values().iterator().next().getName();
+            }
         } else {
             for (Parameter<?> param : resultInfo.values()) {
-                if(param.isRequired()) {
+                if(param != null && param.isRequired()) {
                     return param.getName();
                 }
             }
