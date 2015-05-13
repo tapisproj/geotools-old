@@ -1116,6 +1116,11 @@ public class SLDStyleFactory {
 
 			iSizeX = (int) Math.floor(sizeX);
 			iSizeY = (int) Math.floor(sizeY);
+			
+			// check for zero or negative values
+			iSizeX = iSizeX <= 0 ? 1 : iSizeX;
+			iSizeY = iSizeY <= 0 ? 1 : iSizeY;
+		
 			// updated to use the new sizes
 			image = image.getSubimage(iSizeX, iSizeY, iSizeX, iSizeY); 
 		}
