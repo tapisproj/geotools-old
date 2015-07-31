@@ -1100,8 +1100,11 @@ public class SLDStyleFactory {
 															// ratio to fix the
 															// sample's width.
 			final double sizeY = size;
-			image = new BufferedImage((int) Math.ceil(sizeX * 3), (int) Math
-					.ceil(sizeY * 3), BufferedImage.TYPE_INT_ARGB);
+                        int w = (int) Math.ceil(sizeX * 3);
+                        int h = (int) Math.ceil(sizeY * 3);
+                        w = w <= 0 ? 1 : w;
+                        h = h <= 0 ? 1 : h;
+			image = new BufferedImage(w, h, BufferedImage.TYPE_INT_ARGB);
 			Graphics2D g2d = image.createGraphics();
 			g2d.setRenderingHints(renderingHints);
 			double rotation = evalToDouble(gr.getRotation(), feature, 0.0);
