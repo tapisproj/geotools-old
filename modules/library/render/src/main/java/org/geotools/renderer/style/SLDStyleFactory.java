@@ -1104,6 +1104,11 @@ public class SLDStyleFactory {
                         int h = (int) Math.ceil(sizeY * 3);
                         w = w <= 0 ? 1 : w;
                         h = h <= 0 ? 1 : h;
+                        
+                        if (LOGGER.isLoggable(Level.FINER)) {
+                            LOGGER.finer("get w/h for buffered image: " + w + "/" + h);
+			}
+                        
 			image = new BufferedImage(w, h, BufferedImage.TYPE_INT_ARGB);
 			Graphics2D g2d = image.createGraphics();
 			g2d.setRenderingHints(renderingHints);
@@ -1112,6 +1117,8 @@ public class SLDStyleFactory {
 				for (int j = -1; j < 2; j++) {
 					double tx = sizeX * 1.5 + sizeX * i;
 					double ty = sizeY * 1.5 + sizeY * j;
+                                        tx = tx < 1 ? tx + 1 : tx;
+                                        ty = ty < 1 ? ty + 1 : ty;
 					fillDrawMark(g2d, tx, ty, symbolizer, mark, size, rotation, feature);
 				}
 			}
@@ -1119,6 +1126,11 @@ public class SLDStyleFactory {
 
 			iSizeX = (int) Math.floor(sizeX);
 			iSizeY = (int) Math.floor(sizeY);
+                        
+                        if (LOGGER.isLoggable(Level.FINER)) {
+                            LOGGER.finer("get iSizeX: " + iSizeX);
+                            LOGGER.finer("get iSizeY: " + iSizeY);
+			}
 			
 			// check for zero or negative values
 			iSizeX = iSizeX <= 0 ? 1 : iSizeX;
