@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e0418ca-a7b2-42d5-a108-44afe19ada87" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-h2/null.2.log.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-h2/null.data.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-h2/null.index.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__classworlds_classworlds_1_1_alpha_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_1_119.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_icu_icu4j_3_4_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_miglayout_miglayout_swing_3_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mockrunner_mockrunner_0_3_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_oracle_dummy_spatial_8_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vividsolutions_jts_1_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__hsqldb_hsqldb_1_8_0_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_arcgrid_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdal_bindings_1_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdalarcbinarygrid_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdaldted_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdalecw_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdalecwjp2_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdalehdr_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdalenvihdr_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdalerdasimg_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdalframework_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdalidrisi_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdalkakadujp2_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdalmrsid_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdalmrsidjp2_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdalnitf_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_gdalrpftoc_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_geocore_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_imagereadmt_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_kakadu_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_kakadujni_5_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_streams_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_tiff_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_geosolutions_imageio_ext_imageio_ext_utilities_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__java3d_vecmath_1_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_media_jai_codec_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_media_jai_core_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_media_jai_imageio_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jdom_jdom_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jfree_eastwood_1_1_1_20090908.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jfree_jcommon_1_0_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jfree_jfreechart_1_0_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jgridshift_jgridshift_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jsqlparser_jsqlparser_0_3_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_javacc_javacc_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jsr_275_jsr_275_1_0_beta_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_1_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_groboutils_groboutils_core_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_hatbox_hatbox_1_0_b7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avalon_framework_avalon_framework_api_4_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avalon_framework_avalon_framework_impl_4_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_2_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_manager_2_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_2_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_2_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_profile_2_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_project_2_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_2_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_2_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0_alpha_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xml_xml_commons_resolver_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_anim_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_awt_util_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_bridge_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_css_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_dom_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_ext_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_gvt_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_js_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_parser_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_script_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_svg_dom_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_svggen_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_transcoder_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_util_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_batik_xml_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_fop_0_94.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_xmlgraphics_commons_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_compiler_api_1_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_0_alpha_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_0_alpha_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_easymock_easymock_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_easymock_easymockclassextension_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_easytesting_fest_assert_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_easytesting_fest_reflect_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_easytesting_fest_swing_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_easytesting_fest_swing_junit_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_easytesting_fest_util_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_core_commands_3_6_0_I20100512_1500.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_core_runtime_3_6_0_v20100505.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_emf_common_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_emf_ecore_2_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_equinox_common_3_6_0_v20100503.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jface_3_6_1_M20100825_0800.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_swt_gtk_linux_x86_3_6_1_v3655c.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_swt_win32_win32_x86_64_3_6_1_v3655c.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_ui_workbench_3_6_1_M20100826_1330.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_xsd_xsd_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_cgiutilities_1_0_1_0_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_earthresourceml_1_1_1_1_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_filter_1_1_1_1_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_filter_2_0_2_0_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_geosciml_2_0_2_0_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_geosciml_3_0_seegrid_3_0_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_gml_3_1_3_1_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_gml_3_2_3_2_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_ic_2_0_2_0_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_iso_19139_2007_1_0_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_iso_19156_seegrid_2_0_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_om_1_0_1_0_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_om_2_0_2_0_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_ows_1_0_1_0_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_ows_1_1_1_1_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_sampling_1_0_1_0_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_sampling_2_0_2_0_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_sensorML_1_0_1_0_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_sweCommon_1_0_1_0_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_sweCommon_1_0_gml32_1_0_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_wfs_1_1_1_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_wfs_2_0_2_0_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_xlink_1_0_1_0_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_geotools_schemas_xml_1_0_1_0_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jaitools_jt_utils_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jaitools_jt_vectorbinarize_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jaitools_jt_zonalstats_1_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opengeo_geodb_0_7_RC2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_spatialite_3_7_2_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__picocontainer_picocontainer_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__postgresql_postgresql_8_4_701_jdbc3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__simple_jndi_simple_jndi_0_11_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_6_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_ext_1_3_04.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_xerces_2_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlunit_xmlunit_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/maven/jar-collector/jar-collector.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/maven/javadoc/javadoc.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/maven/jjtree-javacc/jjtree-javacc.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/maven/maven.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/maven/xmlcodegen/xmlcodegen.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/geotools.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/app-schema/app-schema-resolver/gt-app-schema-resolver.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/app-schema/app-schema.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/app-schema/app-schema/gt-app-schema.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/app-schema/sample-data-access/gt-sample-data-access.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/brewer/gt-brewer.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/complex/gt-complex.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/extension.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/graph/gt-graph.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/grid/gt-grid.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/validation/gt-validation.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/wms/gt-wms.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-core/gt-xsd-core.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-csw/gt-xsd-csw.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-fes/gt-xsd-fes.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-filter/gt-xsd-filter.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-gml2/gt-xsd-gml2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-gml3/gt-xsd-gml3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-kml/gt-xsd-kml.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-ows/gt-xsd-ows.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-sld/gt-xsd-sld.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-wcs/gt-xsd-wcs.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-wfs/gt-xsd-wfs.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-wms/gt-xsd-wms.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-wps/gt-xsd-wps.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/library/api/gt-api.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/library/coverage/gt-coverage.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/library/cql/gt-cql.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/library/data/gt-data.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/library/jdbc/gt-jdbc (1) (org.geotools).iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/library/library.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/library/main/gt-main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/library/metadata/gt-metadata.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/library/opengis/gt-opengis.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/library/referencing/gt-referencing.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/library/render/gt-render.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/library/sample-data/gt-sample-data.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/library/xml/gt-xml.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/modules.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ogc/net.opengis.csw/net.opengis.csw.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ogc/net.opengis.fes/net.opengis.fes.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ogc/net.opengis.ows/net.opengis.ows.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ogc/net.opengis.wcs/net.opengis.wcs.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ogc/net.opengis.wfs/net.opengis.wfs.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ogc/net.opengis.wps/net.opengis.wps.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ogc/ogc.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/ogc/org.w3.xlink/org.w3.xlink.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/arcgrid/gt-arcgrid.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/arcsde/arcsde-plugin.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/arcsde/common/gt-arcsde-common.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/arcsde/datastore/gt-arcsde.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/arcsde/sde-dummy/gt-sde-dummy.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/charts/gt-charts.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/epsg-extension/gt-epsg-extension.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/epsg-hsql/gt-epsg-hsql.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/epsg-postgresql/gt-epsg-postgresql.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/epsg-wkt/gt-epsg-wkt.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/feature-pregeneralized/gt-feature-pregeneralized.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/geotiff/gt-geotiff.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/grassraster/gt-grassraster.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/gtopo30/gt-gtopo30.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/image/gt-image.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/imageio-ext-gdal/gt-imageio-ext-gdal.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/imagemosaic-jdbc/gt-imagemosaic-jdbc.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/imagemosaic/gt-imagemosaic.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/imagepyramid/gt-imagepyramid.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/gt-jdbc (2) (org.geotools.jdbc).iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-db2/gt-jdbc-db2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-h2/gt-jdbc-h2.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-h2/null.trace.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-mysql/gt-jdbc-mysql.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-oracle/gt-jdbc-oracle.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-postgis/gt-jdbc-postgis.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-spatialite/gt-jdbc-spatialite.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-sqlserver/gt-jdbc-sqlserver.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-teradata/gt-jdbc-teradata.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/jp2k/gt-jp2k.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/plugin.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/property/gt-property.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/referencing3D/gt-referencing3D.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/shapefile/gt-shapefile.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/plugin/svg/gt-svg.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unsupported/geojson/gt-geojson.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unsupported/process/gt-process.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unsupported/swing/gt-swing.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unsupported/swt/gt-swt.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unsupported/unsupported.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/unsupported/wfs/gt-wfs.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/developer/artifacts/GeotoolsAssignmentToOSGeo.pdf" afterPath="$PROJECT_DIR$/docs/developer/artifacts/GeotoolsAssignmentToOSGeo.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/user/images/intersection.png" afterPath="$PROJECT_DIR$/docs/user/images/intersection.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/user/images/matrix_dx_dy.png" afterPath="$PROJECT_DIR$/docs/user/images/matrix_dx_dy.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/user/images/matrix_dx_ny.png" afterPath="$PROJECT_DIR$/docs/user/images/matrix_dx_ny.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/user/images/matrix_dx_y0.png" afterPath="$PROJECT_DIR$/docs/user/images/matrix_dx_y0.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/user/images/matrix_nx_dy.png" afterPath="$PROJECT_DIR$/docs/user/images/matrix_nx_dy.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/user/images/matrix_nx_ny.png" afterPath="$PROJECT_DIR$/docs/user/images/matrix_nx_ny.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/user/images/matrix_nx_y0.png" afterPath="$PROJECT_DIR$/docs/user/images/matrix_nx_y0.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/user/images/matrix_x0_dy.png" afterPath="$PROJECT_DIR$/docs/user/images/matrix_x0_dy.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/user/images/matrix_x0_ny.png" afterPath="$PROJECT_DIR$/docs/user/images/matrix_x0_ny.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/user/images/matrix_x0_y0.png" afterPath="$PROJECT_DIR$/docs/user/images/matrix_x0_y0.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/library/referencing/src/test/resources/org/geotools/referencing/factory/gridshift/BALR2009.gsb" afterPath="$PROJECT_DIR$/modules/library/referencing/src/test/resources/org/geotools/referencing/factory/gridshift/BALR2009.gsb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/plugin/imagemosaic/src/test/resources/org/geotools/gce/imagemosaic/test-data/env/a1.tif" afterPath="$PROJECT_DIR$/modules/plugin/imagemosaic/src/test/resources/org/geotools/gce/imagemosaic/test-data/env/a1.tif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/plugin/imagemosaic/src/test/resources/org/geotools/gce/imagemosaic/test-data/env/c3.tif" afterPath="$PROJECT_DIR$/modules/plugin/imagemosaic/src/test/resources/org/geotools/gce/imagemosaic/test-data/env/c3.tif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/plugin/imagemosaic/src/test/resources/org/geotools/gce/imagemosaic/test-data/env/d1.tif" afterPath="$PROJECT_DIR$/modules/plugin/imagemosaic/src/test/resources/org/geotools/gce/imagemosaic/test-data/env/d1.tif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/plugin/imagemosaic/src/test/resources/org/geotools/gce/imagemosaic/test-data/overview/q0514sw.aux" afterPath="$PROJECT_DIR$/modules/plugin/imagemosaic/src/test/resources/org/geotools/gce/imagemosaic/test-data/overview/q0514sw.aux" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/unsupported/swing/src/main/resources/org/geotools/swing/icons/mActionIdentify.png" afterPath="$PROJECT_DIR$/modules/unsupported/swing/src/main/resources/org/geotools/swing/icons/mActionIdentify.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/unsupported/swing/src/main/resources/org/geotools/swing/icons/mActionPan.png" afterPath="$PROJECT_DIR$/modules/unsupported/swing/src/main/resources/org/geotools/swing/icons/mActionPan.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/unsupported/swing/src/main/resources/org/geotools/swing/icons/mActionZoomFullExtent.png" afterPath="$PROJECT_DIR$/modules/unsupported/swing/src/main/resources/org/geotools/swing/icons/mActionZoomFullExtent.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/unsupported/swing/src/main/resources/org/geotools/swing/icons/mActionZoomIn.png" afterPath="$PROJECT_DIR$/modules/unsupported/swing/src/main/resources/org/geotools/swing/icons/mActionZoomIn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/unsupported/swing/src/main/resources/org/geotools/swing/icons/mActionZoomOut.png" afterPath="$PROJECT_DIR$/modules/unsupported/swing/src/main/resources/org/geotools/swing/icons/mActionZoomOut.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/build_release.sh" afterPath="$PROJECT_DIR$/build/release/build_release.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/hudson_release.sh" afterPath="$PROJECT_DIR$/build/release/hudson_release.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/release/publish_release.sh" afterPath="$PROJECT_DIR$/build/release/publish_release.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/site/update_site.sh" afterPath="$PROJECT_DIR$/docs/site/update_site.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/extension/xsd/xsd-core/src/test/resources/org/geotools/ml/bindings/mails-external-entities.xml" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-core/src/test/resources/org/geotools/ml/bindings/mails-external-entities.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/extension/xsd/xsd-sld/src/test/resources/org/geotools/sld/example-textsymbolizer-externalentities.xml" afterPath="$PROJECT_DIR$/modules/extension/xsd/xsd-sld/src/test/resources/org/geotools/sld/example-textsymbolizer-externalentities.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/library/coverage/src/main/java/org/geotools/coverage/processing/CoverageProcessor.java" afterPath="$PROJECT_DIR$/modules/library/coverage/src/main/java/org/geotools/coverage/processing/CoverageProcessor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/library/coverage/src/main/java/org/geotools/resources/coverage/FilterFunction_isCoverage.java" afterPath="$PROJECT_DIR$/modules/library/coverage/src/main/java/org/geotools/resources/coverage/FilterFunction_isCoverage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/library/coverage/src/main/resources/META-INF/services/org.opengis.filter.expression.Function" afterPath="$PROJECT_DIR$/modules/library/coverage/src/main/resources/META-INF/services/org.opengis.filter.expression.Function" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/library/coverage/src/test/java/org/geotools/resources/coverage/IsCoverageTest.java" afterPath="$PROJECT_DIR$/modules/library/coverage/src/test/java/org/geotools/resources/coverage/IsCoverageTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/library/referencing/src/test/resources/org/geotools/referencing/factory/gridshift/BALR2009_copyright_and_disclaimer.txt" afterPath="$PROJECT_DIR$/modules/library/referencing/src/test/resources/org/geotools/referencing/factory/gridshift/BALR2009_copyright_and_disclaimer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/library/render/src/main/java/org/geotools/renderer/style/SLDStyleFactory.java" afterPath="$PROJECT_DIR$/modules/library/render/src/main/java/org/geotools/renderer/style/SLDStyleFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/ogc/net.opengis.ows/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/modules/ogc/net.opengis.ows/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/ogc/net.opengis.ows/build.properties" afterPath="$PROJECT_DIR$/modules/ogc/net.opengis.ows/build.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/ogc/net.opengis.ows/ows10.ecore" afterPath="$PROJECT_DIR$/modules/ogc/net.opengis.ows/ows10.ecore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/ogc/net.opengis.ows/plugin.properties" afterPath="$PROJECT_DIR$/modules/ogc/net.opengis.ows/plugin.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/plugin/imagemosaic/src/test/resources/org/geotools/gce/imagemosaic/test-data/env/indexer.properties" afterPath="$PROJECT_DIR$/modules/plugin/imagemosaic/src/test/resources/org/geotools/gce/imagemosaic/test-data/env/indexer.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-oracle/src/main/java/org/geotools/filter/function/FilterFunction_sdonn.java" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-oracle/src/main/java/org/geotools/filter/function/FilterFunction_sdonn.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-oracle/src/main/resources/META-INF/services/org.opengis.filter.expression.Function" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-oracle/src/main/resources/META-INF/services/org.opengis.filter.expression.Function" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-oracle/src/test/java/org/geotools/data/oracle/EmptyJDBCDataStoreAPITestSetup.java" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-oracle/src/test/java/org/geotools/data/oracle/EmptyJDBCDataStoreAPITestSetup.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-oracle/src/test/java/org/geotools/data/oracle/OracleNearestNeighborTest.java" afterPath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-oracle/src/test/java/org/geotools/data/oracle/OracleNearestNeighborTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/unsupported/ogr/ogr-bridj/jnaerate.sh" afterPath="$PROJECT_DIR$/modules/unsupported/ogr/ogr-bridj/jnaerate.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spike/mauro/ogr/jnaerate.sh" afterPath="$PROJECT_DIR$/spike/mauro/ogr/jnaerate.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spike/zzorn/geotools-renderer3d/install_third_party_libraries.sh" afterPath="$PROJECT_DIR$/spike/zzorn/geotools-renderer3d/install_third_party_libraries.sh" />
+    </list>
+    <ignored path="geotools.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/modules/extension/xsd/xsd-wcs/target/" />
+    <ignored path="$PROJECT_DIR$/modules/ogc/net.opengis.csw/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/xsd/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/arcsde/common/target/" />
+    <ignored path="$PROJECT_DIR$/modules/ogc/target/" />
+    <ignored path="$PROJECT_DIR$/modules/ogc/net.opengis.wps/target/" />
+    <ignored path="$PROJECT_DIR$/modules/library/referencing/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/app-schema/app-schema/target/" />
+    <ignored path="$PROJECT_DIR$/modules/ogc/net.opengis.wcs/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-postgis/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/xsd/xsd-ows/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/arcgrid/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/xsd/xsd-wps/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/gtopo30/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/complex/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/imageio-ext-gdal/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-h2/target/" />
+    <ignored path="$PROJECT_DIR$/modules/unsupported/process/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/xsd/xsd-wfs/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-mysql/target/" />
+    <ignored path="$PROJECT_DIR$/modules/unsupported/geojson/target/" />
+    <ignored path="$PROJECT_DIR$/modules/ogc/net.opengis.fes/target/" />
+    <ignored path="$PROJECT_DIR$/modules/library/xml/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/wms/target/" />
+    <ignored path="$PROJECT_DIR$/modules/library/main/target/" />
+    <ignored path="$PROJECT_DIR$/build/maven/jar-collector/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/charts/target/" />
+    <ignored path="$PROJECT_DIR$/modules/unsupported/swing/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/epsg-wkt/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/brewer/target/" />
+    <ignored path="$PROJECT_DIR$/build/maven/jjtree-javacc/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/validation/target/" />
+    <ignored path="$PROJECT_DIR$/modules/library/render/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/grid/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-db2/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/imagemosaic/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/xsd/xsd-wms/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/xsd/xsd-core/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-oracle/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/xsd/xsd-csw/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/xsd/xsd-gml3/target/" />
+    <ignored path="$PROJECT_DIR$/modules/library/cql/target/timestamp/" />
+    <ignored path="$PROJECT_DIR$/modules/library/cql/target/maven-archiver/" />
+    <ignored path="$PROJECT_DIR$/modules/library/opengis/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/feature-pregeneralized/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/xsd/xsd-filter/target/" />
+    <ignored path="$PROJECT_DIR$/modules/unsupported/wfs/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/imagemosaic-jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/jp2k/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/arcsde/datastore/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/graph/target/" />
+    <ignored path="$PROJECT_DIR$/modules/library/data/target/" />
+    <ignored path="$PROJECT_DIR$/modules/library/api/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/arcsde/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/target/" />
+    <ignored path="$PROJECT_DIR$/modules/ogc/net.opengis.ows/target/" />
+    <ignored path="$PROJECT_DIR$/modules/unsupported/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/xsd/xsd-kml/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/shapefile/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/image/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/epsg-extension/target/" />
+    <ignored path="$PROJECT_DIR$/build/maven/target/" />
+    <ignored path="$PROJECT_DIR$/modules/library/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/grassraster/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-sqlserver/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/modules/ogc/org.w3.xlink/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/arcsde/sde-dummy/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/property/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/app-schema/app-schema-resolver/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/epsg-hsql/target/" />
+    <ignored path="$PROJECT_DIR$/modules/library/jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/build/maven/xmlcodegen/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/svg/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/app-schema/sample-data-access/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/app-schema/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/xsd/xsd-fes/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/imagepyramid/target/" />
+    <ignored path="$PROJECT_DIR$/modules/ogc/net.opengis.wfs/target/" />
+    <ignored path="$PROJECT_DIR$/modules/library/sample-data/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/epsg-postgresql/target/" />
+    <ignored path="$PROJECT_DIR$/build/maven/javadoc/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/xsd/xsd-gml2/target/" />
+    <ignored path="$PROJECT_DIR$/modules/unsupported/swt/target/" />
+    <ignored path="$PROJECT_DIR$/modules/extension/xsd/xsd-sld/target/" />
+    <ignored path="$PROJECT_DIR$/modules/library/metadata/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/geotiff/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/referencing3D/target/" />
+    <ignored path="$PROJECT_DIR$/modules/target/" />
+    <ignored path="$PROJECT_DIR$/build/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-teradata/target/" />
+    <ignored path="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-spatialite/target/" />
+    <ignored path="$PROJECT_DIR$/modules/library/coverage/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="geotools" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SLDStyleFactory.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/library/render/src/main/java/org/geotools/renderer/style/SLDStyleFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="1142" column="9" selection-start-line="1142" selection-start-column="9" selection-end-line="1142" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/modules/library/render/src/main/java/org/geotools/renderer/style/SLDStyleFactory.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="disabledProfiles">
+      <list>
+        <option value="cmclient-target-platform" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unsupported" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unsupported" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="process-raster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unsupported" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="process-raster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geotools" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e0418ca-a7b2-42d5-a108-44afe19ada87" name="Default" comment="" />
+      <created>1463039519724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1463039519724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spike/zzorn/geotools-renderer3d/src/main/java/org/geotools/renderer3d/utils/ImageUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="105" column="39" selection-start-line="105" selection-start-column="39" selection-end-line="105" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/plugin/imagemosaic-jdbc/src/main/java/org/geotools/gce/imagemosaic/jdbc/ImageDecoderThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="149" column="63" selection-start-line="149" selection-start-column="63" selection-end-line="149" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/library/render/src/main/java/org/geotools/renderer/style/SLDStyleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="1142" column="9" selection-start-line="1142" selection-start-column="9" selection-end-line="1142" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1137,7 +1137,9 @@ public class SLDStyleFactory {
 			iSizeY = iSizeY <= 0 ? 1 : iSizeY;
 		
 			// updated to use the new sizes
-			image = image.getSubimage(iSizeX, iSizeY, iSizeX, iSizeY); 
+			if(image.getHeight() > iSizeY || image.getWidth() > iSizeX) {
+				image = image.getSubimage(iSizeX, iSizeY, iSizeX, iSizeY);
+			}
 		}
 
 		// do we have a graphic margin? (top,right,bottom,left order)

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse:core.commands:3.6.0.I20100512-1500">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/core.commands/3.6.0.I20100512-1500/core.commands-3.6.0.I20100512-1500.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/core.commands/3.6.0.I20100512-1500/core.commands-3.6.0.I20100512-1500-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/core.commands/3.6.0.I20100512-1500/core.commands-3.6.0.I20100512-1500-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

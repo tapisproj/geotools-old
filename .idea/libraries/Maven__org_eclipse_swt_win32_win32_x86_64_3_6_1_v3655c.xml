@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse:swt.win32.win32.x86_64:3.6.1.v3655c">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/swt.win32.win32.x86_64/3.6.1.v3655c/swt.win32.win32.x86_64-3.6.1.v3655c.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/swt.win32.win32.x86_64/3.6.1.v3655c/swt.win32.win32.x86_64-3.6.1.v3655c-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/swt.win32.win32.x86_64/3.6.1.v3655c/swt.win32.win32.x86_64-3.6.1.v3655c-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

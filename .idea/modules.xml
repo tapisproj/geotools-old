@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/app-schema/app-schema.iml" filepath="$PROJECT_DIR$/modules/extension/app-schema/app-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/arcsde/arcsde-plugin.iml" filepath="$PROJECT_DIR$/modules/plugin/arcsde/arcsde-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/build.iml" filepath="$PROJECT_DIR$/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/extension.iml" filepath="$PROJECT_DIR$/modules/extension/extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geotools.iml" filepath="$PROJECT_DIR$/geotools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/library/api/gt-api.iml" filepath="$PROJECT_DIR$/modules/library/api/gt-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/app-schema/app-schema/gt-app-schema.iml" filepath="$PROJECT_DIR$/modules/extension/app-schema/app-schema/gt-app-schema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/app-schema/app-schema-resolver/gt-app-schema-resolver.iml" filepath="$PROJECT_DIR$/modules/extension/app-schema/app-schema-resolver/gt-app-schema-resolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/arcgrid/gt-arcgrid.iml" filepath="$PROJECT_DIR$/modules/plugin/arcgrid/gt-arcgrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/arcsde/datastore/gt-arcsde.iml" filepath="$PROJECT_DIR$/modules/plugin/arcsde/datastore/gt-arcsde.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/arcsde/common/gt-arcsde-common.iml" filepath="$PROJECT_DIR$/modules/plugin/arcsde/common/gt-arcsde-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/brewer/gt-brewer.iml" filepath="$PROJECT_DIR$/modules/extension/brewer/gt-brewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/charts/gt-charts.iml" filepath="$PROJECT_DIR$/modules/plugin/charts/gt-charts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/complex/gt-complex.iml" filepath="$PROJECT_DIR$/modules/extension/complex/gt-complex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/library/coverage/gt-coverage.iml" filepath="$PROJECT_DIR$/modules/library/coverage/gt-coverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/library/cql/gt-cql.iml" filepath="$PROJECT_DIR$/modules/library/cql/gt-cql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/library/data/gt-data.iml" filepath="$PROJECT_DIR$/modules/library/data/gt-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/epsg-extension/gt-epsg-extension.iml" filepath="$PROJECT_DIR$/modules/plugin/epsg-extension/gt-epsg-extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/epsg-hsql/gt-epsg-hsql.iml" filepath="$PROJECT_DIR$/modules/plugin/epsg-hsql/gt-epsg-hsql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/epsg-postgresql/gt-epsg-postgresql.iml" filepath="$PROJECT_DIR$/modules/plugin/epsg-postgresql/gt-epsg-postgresql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/epsg-wkt/gt-epsg-wkt.iml" filepath="$PROJECT_DIR$/modules/plugin/epsg-wkt/gt-epsg-wkt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/feature-pregeneralized/gt-feature-pregeneralized.iml" filepath="$PROJECT_DIR$/modules/plugin/feature-pregeneralized/gt-feature-pregeneralized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/unsupported/geojson/gt-geojson.iml" filepath="$PROJECT_DIR$/modules/unsupported/geojson/gt-geojson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/geotiff/gt-geotiff.iml" filepath="$PROJECT_DIR$/modules/plugin/geotiff/gt-geotiff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/graph/gt-graph.iml" filepath="$PROJECT_DIR$/modules/extension/graph/gt-graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/grassraster/gt-grassraster.iml" filepath="$PROJECT_DIR$/modules/plugin/grassraster/gt-grassraster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/grid/gt-grid.iml" filepath="$PROJECT_DIR$/modules/extension/grid/gt-grid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/gtopo30/gt-gtopo30.iml" filepath="$PROJECT_DIR$/modules/plugin/gtopo30/gt-gtopo30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/image/gt-image.iml" filepath="$PROJECT_DIR$/modules/plugin/image/gt-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/imageio-ext-gdal/gt-imageio-ext-gdal.iml" filepath="$PROJECT_DIR$/modules/plugin/imageio-ext-gdal/gt-imageio-ext-gdal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/imagemosaic/gt-imagemosaic.iml" filepath="$PROJECT_DIR$/modules/plugin/imagemosaic/gt-imagemosaic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/imagemosaic-jdbc/gt-imagemosaic-jdbc.iml" filepath="$PROJECT_DIR$/modules/plugin/imagemosaic-jdbc/gt-imagemosaic-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/imagepyramid/gt-imagepyramid.iml" filepath="$PROJECT_DIR$/modules/plugin/imagepyramid/gt-imagepyramid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/library/jdbc/gt-jdbc (1) (org.geotools).iml" filepath="$PROJECT_DIR$/modules/library/jdbc/gt-jdbc (1) (org.geotools).iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/jdbc/gt-jdbc (2) (org.geotools.jdbc).iml" filepath="$PROJECT_DIR$/modules/plugin/jdbc/gt-jdbc (2) (org.geotools.jdbc).iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/jdbc/jdbc-db2/gt-jdbc-db2.iml" filepath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-db2/gt-jdbc-db2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/jdbc/jdbc-h2/gt-jdbc-h2.iml" filepath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-h2/gt-jdbc-h2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/jdbc/jdbc-mysql/gt-jdbc-mysql.iml" filepath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-mysql/gt-jdbc-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/jdbc/jdbc-oracle/gt-jdbc-oracle.iml" filepath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-oracle/gt-jdbc-oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/jdbc/jdbc-postgis/gt-jdbc-postgis.iml" filepath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-postgis/gt-jdbc-postgis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/jdbc/jdbc-spatialite/gt-jdbc-spatialite.iml" filepath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-spatialite/gt-jdbc-spatialite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/jdbc/jdbc-sqlserver/gt-jdbc-sqlserver.iml" filepath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-sqlserver/gt-jdbc-sqlserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/jdbc/jdbc-teradata/gt-jdbc-teradata.iml" filepath="$PROJECT_DIR$/modules/plugin/jdbc/jdbc-teradata/gt-jdbc-teradata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/jp2k/gt-jp2k.iml" filepath="$PROJECT_DIR$/modules/plugin/jp2k/gt-jp2k.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/library/main/gt-main.iml" filepath="$PROJECT_DIR$/modules/library/main/gt-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/library/metadata/gt-metadata.iml" filepath="$PROJECT_DIR$/modules/library/metadata/gt-metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/library/opengis/gt-opengis.iml" filepath="$PROJECT_DIR$/modules/library/opengis/gt-opengis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/unsupported/process/gt-process.iml" filepath="$PROJECT_DIR$/modules/unsupported/process/gt-process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/property/gt-property.iml" filepath="$PROJECT_DIR$/modules/plugin/property/gt-property.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/library/referencing/gt-referencing.iml" filepath="$PROJECT_DIR$/modules/library/referencing/gt-referencing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/referencing3D/gt-referencing3D.iml" filepath="$PROJECT_DIR$/modules/plugin/referencing3D/gt-referencing3D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/library/render/gt-render.iml" filepath="$PROJECT_DIR$/modules/library/render/gt-render.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/library/sample-data/gt-sample-data.iml" filepath="$PROJECT_DIR$/modules/library/sample-data/gt-sample-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/app-schema/sample-data-access/gt-sample-data-access.iml" filepath="$PROJECT_DIR$/modules/extension/app-schema/sample-data-access/gt-sample-data-access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/arcsde/sde-dummy/gt-sde-dummy.iml" filepath="$PROJECT_DIR$/modules/plugin/arcsde/sde-dummy/gt-sde-dummy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/shapefile/gt-shapefile.iml" filepath="$PROJECT_DIR$/modules/plugin/shapefile/gt-shapefile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/svg/gt-svg.iml" filepath="$PROJECT_DIR$/modules/plugin/svg/gt-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/unsupported/swing/gt-swing.iml" filepath="$PROJECT_DIR$/modules/unsupported/swing/gt-swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/unsupported/swt/gt-swt.iml" filepath="$PROJECT_DIR$/modules/unsupported/swt/gt-swt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/validation/gt-validation.iml" filepath="$PROJECT_DIR$/modules/extension/validation/gt-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/unsupported/wfs/gt-wfs.iml" filepath="$PROJECT_DIR$/modules/unsupported/wfs/gt-wfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/wms/gt-wms.iml" filepath="$PROJECT_DIR$/modules/extension/wms/gt-wms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/library/xml/gt-xml.iml" filepath="$PROJECT_DIR$/modules/library/xml/gt-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/xsd/xsd-core/gt-xsd-core.iml" filepath="$PROJECT_DIR$/modules/extension/xsd/xsd-core/gt-xsd-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/xsd/xsd-csw/gt-xsd-csw.iml" filepath="$PROJECT_DIR$/modules/extension/xsd/xsd-csw/gt-xsd-csw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/xsd/xsd-fes/gt-xsd-fes.iml" filepath="$PROJECT_DIR$/modules/extension/xsd/xsd-fes/gt-xsd-fes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/xsd/xsd-filter/gt-xsd-filter.iml" filepath="$PROJECT_DIR$/modules/extension/xsd/xsd-filter/gt-xsd-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/xsd/xsd-gml2/gt-xsd-gml2.iml" filepath="$PROJECT_DIR$/modules/extension/xsd/xsd-gml2/gt-xsd-gml2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/xsd/xsd-gml3/gt-xsd-gml3.iml" filepath="$PROJECT_DIR$/modules/extension/xsd/xsd-gml3/gt-xsd-gml3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/xsd/xsd-kml/gt-xsd-kml.iml" filepath="$PROJECT_DIR$/modules/extension/xsd/xsd-kml/gt-xsd-kml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/xsd/xsd-ows/gt-xsd-ows.iml" filepath="$PROJECT_DIR$/modules/extension/xsd/xsd-ows/gt-xsd-ows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/xsd/xsd-sld/gt-xsd-sld.iml" filepath="$PROJECT_DIR$/modules/extension/xsd/xsd-sld/gt-xsd-sld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/xsd/xsd-wcs/gt-xsd-wcs.iml" filepath="$PROJECT_DIR$/modules/extension/xsd/xsd-wcs/gt-xsd-wcs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/xsd/xsd-wfs/gt-xsd-wfs.iml" filepath="$PROJECT_DIR$/modules/extension/xsd/xsd-wfs/gt-xsd-wfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/xsd/xsd-wms/gt-xsd-wms.iml" filepath="$PROJECT_DIR$/modules/extension/xsd/xsd-wms/gt-xsd-wms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/xsd/xsd-wps/gt-xsd-wps.iml" filepath="$PROJECT_DIR$/modules/extension/xsd/xsd-wps/gt-xsd-wps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/maven/jar-collector/jar-collector.iml" filepath="$PROJECT_DIR$/build/maven/jar-collector/jar-collector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/maven/javadoc/javadoc.iml" filepath="$PROJECT_DIR$/build/maven/javadoc/javadoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/maven/jjtree-javacc/jjtree-javacc.iml" filepath="$PROJECT_DIR$/build/maven/jjtree-javacc/jjtree-javacc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/library/library.iml" filepath="$PROJECT_DIR$/modules/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/maven/maven.iml" filepath="$PROJECT_DIR$/build/maven/maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/modules.iml" filepath="$PROJECT_DIR$/modules/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ogc/net.opengis.csw/net.opengis.csw.iml" filepath="$PROJECT_DIR$/modules/ogc/net.opengis.csw/net.opengis.csw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ogc/net.opengis.fes/net.opengis.fes.iml" filepath="$PROJECT_DIR$/modules/ogc/net.opengis.fes/net.opengis.fes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ogc/net.opengis.ows/net.opengis.ows.iml" filepath="$PROJECT_DIR$/modules/ogc/net.opengis.ows/net.opengis.ows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ogc/net.opengis.wcs/net.opengis.wcs.iml" filepath="$PROJECT_DIR$/modules/ogc/net.opengis.wcs/net.opengis.wcs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ogc/net.opengis.wfs/net.opengis.wfs.iml" filepath="$PROJECT_DIR$/modules/ogc/net.opengis.wfs/net.opengis.wfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ogc/net.opengis.wps/net.opengis.wps.iml" filepath="$PROJECT_DIR$/modules/ogc/net.opengis.wps/net.opengis.wps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ogc/ogc.iml" filepath="$PROJECT_DIR$/modules/ogc/ogc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/ogc/org.w3.xlink/org.w3.xlink.iml" filepath="$PROJECT_DIR$/modules/ogc/org.w3.xlink/org.w3.xlink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/plugin/plugin.iml" filepath="$PROJECT_DIR$/modules/plugin/plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/unsupported/unsupported.iml" filepath="$PROJECT_DIR$/modules/unsupported/unsupported.iml" />
+      <module fileurl="file://$PROJECT_DIR$/build/maven/xmlcodegen/xmlcodegen.iml" filepath="$PROJECT_DIR$/build/maven/xmlcodegen/xmlcodegen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/extension/xsd/xsd.iml" filepath="$PROJECT_DIR$/modules/extension/xsd/xsd.iml" />
+    </modules>
+  </component>
+</project>

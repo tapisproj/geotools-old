@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: jfree:eastwood:1.1.1-20090908">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jfree/eastwood/1.1.1-20090908/eastwood-1.1.1-20090908.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/jfree/eastwood/1.1.1-20090908/eastwood-1.1.1-20090908-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/jfree/eastwood/1.1.1-20090908/eastwood-1.1.1-20090908-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
